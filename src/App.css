@@ -1,0 +1,141 @@
+.box{
+    border: 2px solid black;
+    height: 600px;
+    width: 1400px;
+}
+.a{
+    border: 2px solid black;
+    height: 40px;
+    width: 1000px;
+    margin: 10px;
+}
+
+#i1{
+    height: 50px;
+    margin: 250px 0px;
+    background-color: blue;  
+}
+#i2{
+    height: 50px;
+    width: 450px;
+    background-color: black;
+}
+#i3{
+    height: 50px;
+    width: 380px;
+    background-color: yellow;
+}
+#i4{
+    height: 50px;
+    width: 250px;
+    background-color: red;
+}
+#i5{
+    height: 50px;
+    width: 250px;
+    background-color: skyblue;
+}
+#i6{
+    height: 50px;
+    width: 250px;
+    background-color: green;
+}
+r{
+    height: 30px;
+    width: 100%;
+    margin-top: 20px;
+}
+.Cash{
+width: 80%; 
+}
+.boligdiv{
+    height: 70px;
+    width: 100%;
+    background-color: red;
+}
+.RS{
+    margin-left: 100px;
+}
+.btn1{
+    margin-left: 30px;
+}
+.btn2{
+    margin-left: 130px;
+}
+.footer1box{
+    height: 40px;
+  
+}
+.btn3{
+    height: 30px ;
+    width: 80px;
+    margin-left: 60px;
+}
+.table{
+    width: 100%;
+}
+.rimi{
+    margin-left: 260px;
+}
+.nbtn{
+    height: 30px;
+    width: 30px;
+}
+.nbtn1{
+    font-size: 10px;
+}
+.nbtn2{
+    height: 30px;
+    width: 90px;
+    border: 1px solid black;
+}
+
+.r{
+    height: 30px;
+    width: 100%;
+    margin-top: 20px;
+}
+.Cash{
+width: 80%; 
+}
+.boligdiv{
+    height: 70px;
+    width: 100%;
+    background-color: red;
+}
+.RS{
+    margin-left: 100px;
+}
+.btn1{
+    margin-left: 30px;
+}
+.btn2{
+    margin-left: 130px;
+}
+.footer1box{
+    height: 40px;
+  
+}
+.btn3{
+    height: 30px ;
+    width: 80px;
+    margin-left: 60px;
+}
+.table{
+    width: 100%;
+}
+.rimi{
+    margin-left: 260px;
+}
+.nbtn{
+    height: 30px;
+    width: 30px;
+}
+.nbtn1{
+    font-size: 10px;
+}
+.nbtn2{
+    height: 30px;
+    width: 90px;
+    border: 1px solid black;
+}
